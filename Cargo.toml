@@ -8,3 +8,4 @@ name = "rust_sandbox"
 path = "./source/rust_sandbox.rs"
 
 [dependencies]
+rand = "0.8.5"
